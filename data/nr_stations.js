@@ -1376,6 +1376,7 @@ var DATA_STATIONS = {
   "LEM" : "Leyton Midland Road",
   "LER" : "Leytonstone High Road",
   "LIC" : "Lichfield City",
+  "LIF" : "Lichfeild",
   "LTV" : "Lichfield Trent Valley",
   "LID" : "Lidlington",
   "LHS" : "Limehouse",
