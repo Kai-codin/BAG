@@ -4,6 +4,7 @@ var DATA_SERVICES = [
   "Caledonian Sleeper",
   "Chiltern Railways",
   "CrossCountry",
+  "Diamond Bus East Midlands",
   "East Midlands Trains",
   "Eurostar",
   "Gatwick Express",
